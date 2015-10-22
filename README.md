@@ -1,6 +1,7 @@
 # RetirementCalculator
-Retirement Calculator based on Monte Carlo Simulator
+Retirement Calculator based on Monte Carlo Simulation to calculate the expected returns
 
+----------------------------------------
 To run the same use 
 
-mvn clean test -Dmaven.test.skip=true exec:java -Dexec.mainClass="com.dhiraj.RetirementCalculator"
+mvn clean test exec:java -Dexec.mainClass="com.dhiraj.RetirementCalculator"
