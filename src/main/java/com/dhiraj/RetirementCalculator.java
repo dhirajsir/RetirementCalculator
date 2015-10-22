@@ -10,8 +10,7 @@ import org.apache.commons.math3.stat.descriptive.rank.Percentile;
  * 9781466566903/chapter-11.html
  * http://docs.oracle.com/javase/7/docs/api/java/util/Random.html#nextGaussian()
  * http://commons.apache.org/proper/commons-math/apidocs/org/apache/commons/
- * math3/distribution/NormalDistribution.html
- * 
+ * math3/distribution/NormalDistribution.html 
  * 
  * @author dkumar
  *
